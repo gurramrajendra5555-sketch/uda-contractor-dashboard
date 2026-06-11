@@ -95,6 +95,45 @@
 MIT License - Free to use and adapt
 
 ---
+## 💡 Key Insights & Findings
+
+**Performance Distribution:**
+- Over 30% of contractors are under-performing (<50% of target)
+- Moderate performers (50-80%) represent largest opportunity for support
+- Only top performers (>100%) demonstrate best practice models
+- Performance varies significantly by commissioner region
+
+**Financial Efficiency:**
+- Average cost per UDA ranges from £300-£1,500 across contractors
+- High-performing contractors often have lower cost-per-UDA
+- Budget optimization opportunities identified in underperforming regions
+- Total revenue analyzed: £3.07B across all contractors
+
+**Patient Access Metrics:**
+- 24.5M+ patients served across 42 commissioners
+- Child access (12-month): Strong coverage in major regions
+- Adult preventive care (24-month): Room for improvement
+- Regional variation shows access inequality
+
+**Treatment Delivery Patterns:**
+- Band 1 (Examinations): Preventive focus showing strong delivery
+- Band 2A-2C (Scaling): Moderate complexity treatment increasing
+- Band 3 (Restorative): Complex procedures concentrated in well-resourced areas
+- Urgent/Emergency: Consistent delivery across regions
+
+**Regional Insights:**
+- Cheshire & Merseyside: Strong UDA delivery performance
+- Some commissioners significantly below target
+- Geographic disparities in resource allocation evident
+- Regional benchmarking identifies best performers
+
+**Business Opportunities:**
+- Underperforming contractors need targeted support programs
+- Cost optimization possible in high-cost regions
+- Patient access improvements needed in some areas
+- Best practice sharing from top performers recommended
+
+---
 
 ## 🚀 How to Use This Dashboard
 
